@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <!-- PLN Yellow Emblem with lightning -->
+  <rect x="8" y="8" width="44" height="44" rx="6" fill="#FED100"/>
+  <path d="M12 36c4-1 10 2 12-2s1-8 6-8 8 2 10-2" stroke="#0072BC" stroke-width="2.5" fill="none"/>
+  <path d="M30 14l-9 17h10l-4 15 13-19H29l5-13z" fill="#ED1C24"/>
+  <!-- PLN Wordmark -->
+  <text x="64" y="40" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="28" font-weight="900" fill="#0072BC" letter-spacing="2">PLN</text>
+</svg>

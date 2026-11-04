@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <!-- WIKA Blue Monogram -->
+  <path d="M10 16l8 28h8l7-20 7 20h8l8-28h-8l-4 18-7-18h-7l-7 18-4-18H10z" fill="#00529C"/>
+  <circle cx="53" cy="18" r="3" fill="#ED1C24"/>
+  <!-- WIKA text -->
+  <text x="68" y="38" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="24" font-weight="900" fill="#00529C" letter-spacing="2">WIKA</text>
+</svg>
