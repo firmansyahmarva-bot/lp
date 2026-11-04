@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" fill="none">
+  <!-- Pertamina logo mark: 3 parallelogram petals (blue, red, green) -->
+  <path d="M16 12h18l-8 16H8l8-16z" fill="#0088CE"/>
+  <path d="M38 12h18l-8 16H30l8-16z" fill="#ED1C24"/>
+  <path d="M26 32h18l-8 16H18l8-16z" fill="#78BE20"/>
+  <!-- PERTAMINA Wordmark -->
+  <text x="68" y="38" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="21" font-weight="900" fill="#0088CE" letter-spacing="1">PERTAMINA</text>
+</svg>

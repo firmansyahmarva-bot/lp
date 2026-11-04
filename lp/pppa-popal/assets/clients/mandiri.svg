@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" fill="none">
+  <!-- Mandiri Blue & Gold Waves -->
+  <path d="M10 26c4-6 12-10 20-10 6 0 12 2 16 6-4 2-8 3-12 3-8 0-14 3-18 8l-6-7z" fill="#002D62"/>
+  <path d="M18 36c4-4 10-6 16-6 6 0 12 3 16 7-6 1-12 2-16 5-5 3-10 4-16 0z" fill="#F8A01A"/>
+  <!-- mandiri Wordmark -->
+  <text x="56" y="38" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="24" font-weight="800" fill="#002D62" letter-spacing="-0.5">mandiri</text>
+</svg>
