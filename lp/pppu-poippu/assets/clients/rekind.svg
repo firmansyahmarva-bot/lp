@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" fill="none">
+  <!-- Rekind stylized R and arrow -->
+  <path d="M14 14h16c8 0 14 5 14 12s-6 12-14 12h-8v10H14V14zm8 16h8c4 0 7-2 7-6s-3-6-7-6h-8v12z" fill="#0077B6"/>
+  <path d="M34 32l14 16H36l-10-12 8-4z" fill="#F77F00"/>
+  <text x="56" y="38" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="20" font-weight="900" fill="#0077B6" letter-spacing="1">Rekind</text>
+  <text x="56" y="49" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="7.5" font-weight="700" fill="#666" letter-spacing="0.5">REKAYASA INDUSTRI</text>
+</svg>
